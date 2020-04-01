@@ -448,3 +448,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.01-00.45.40:362][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
 [2020.04.01-00.45.40:362][  0]LogD3D11RHI: Async texture creation enabled
 [2020.04.01-00.45.40:434][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 2)
+[2020.04.01-00.45.48:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.01-00.45.48:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.01-00.45.48:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.01-00.45.48:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.01-00.45.48:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.01-00.45.48:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.01-00.45.48:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.01-00.45.48:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.01-00.45.48:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.01-00.45.48:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.01-00.45.48:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.01-00.45.48:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.01-00.45.48:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.01-00.45.48:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.01-00.45.48:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.01-00.45.48:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.01-00.45.48:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.01-00.45.48:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.01-00.45.48:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.01-00.45.49:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.01-00.45.49:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.01-00.45.49:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.01-00.45.49:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.01-00.45.49:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.01-00.45.49:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.01-00.45.50:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.01-00.45.50:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.01-00.45.50:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.01-00.45.50:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.01-00.45.50:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.01-00.45.50:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.01-00.45.51:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.01-00.45.51:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.01-00.45.51:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.01-00.45.51:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.01-00.45.51:595][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.01-00.45.52:166][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.01-00.45.53:594][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Intermediate/Shaders/WorkingDirectory/15348/).
+[2020.04.01-00.45.53:597][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SWIZZ_DC/AppData/Local/Temp/UnrealShaderWorkingDir/F77831F9489B55405F43449216621EDE/'.
+[2020.04.01-00.45.53:644][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.01-00.45.53:645][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.01-00.45.53:646][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
