@@ -1,0 +1,762 @@
+﻿Log file open, 04/01/20 18:20:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Code_DM
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.688271
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) Vega 8 Graphics
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.02-01.20.36:208][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.02-01.20.36:208][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.02-01.20.36:208][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Engine.ini]
+[2020.04.02-01.20.36:208][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.02-01.20.36:208][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Engine.ini]
+[2020.04.02-01.20.36:209][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Engine.ini]
+[2020.04.02-01.20.36:209][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.02-01.20.36:209][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.02-01.20.36:209][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.02-01.20.36:209][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.02-01.20.36:209][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.02-01.20.36:209][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.02-01.20.36:210][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.02-01.20.36:210][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.02-01.20.36:210][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.02-01.20.36:210][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.02-01.20.36:210][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.02-01.20.36:210][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.02-01.20.36:210][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.02-01.20.36:211][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.02-01.20.36:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Engine.ini]
+[2020.04.02-01.20.36:211][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.02-01.20.36:211][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.02-01.20.36:211][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.02-01.20.36:211][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.02-01.20.36:212][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.02-01.20.36:212][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.02-01.20.36:212][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.02-01.20.36:212][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.02-01.20.36:212][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.02-01.20.36:212][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.02-01.20.36:212][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.02-01.20.36:213][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.02-01.20.36:213][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.02-01.20.36:213][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Engine.ini]
+[2020.04.02-01.20.36:213][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Engine.ini]
+[2020.04.02-01.20.36:237][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:238][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-01.20.36:238][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-01.20.36:238][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:238][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.02-01.20.36:238][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:238][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-01.20.36:239][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-01.20.36:239][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-01.20.36:239][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-01.20.36:239][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-01.20.36:239][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-01.20.36:239][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-01.20.36:240][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-01.20.36:240][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-01.20.36:240][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-01.20.36:240][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-01.20.36:240][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-01.20.36:240][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-01.20.36:240][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-01.20.36:241][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-01.20.36:241][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-01.20.36:241][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-01.20.36:241][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-01.20.36:241][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:241][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.02-01.20.36:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-01.20.36:242][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-01.20.36:242][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.02-01.20.36:242][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-01.20.36:242][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.02-01.20.36:242][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-01.20.36:242][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.02-01.20.36:242][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.02-01.20.36:242][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-01.20.36:243][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.02-01.20.36:243][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.02-01.20.36:243][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-01.20.36:243][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-01.20.36:243][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-01.20.36:243][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-01.20.36:243][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-01.20.36:244][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-01.20.36:244][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-01.20.36:244][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-01.20.36:244][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-01.20.36:244][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-01.20.36:244][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-01.20.36:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-01.20.36:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-01.20.36:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-01.20.36:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-01.20.36:245][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-01.20.36:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-01.20.36:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-01.20.36:246][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:246][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-01.20.36:246][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-01.20.36:246][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-01.20.36:246][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-01.20.36:247][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-01.20.36:247][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.02-01.20.36:247][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-01.20.36:247][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-01.20.36:247][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-01.20.36:247][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:247][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.02-01.20.36:248][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-01.20.36:248][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.02-01.20.36:248][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.02-01.20.36:248][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.02-01.20.36:248][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-01.20.36:248][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.02-01.20.36:248][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-01.20.36:249][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-01.20.36:249][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-01.20.36:249][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-01.20.36:249][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-01.20.36:249][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.02-01.20.36:249][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-01.20.36:249][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-01.20.36:249][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.02-01.20.36:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.02-01.20.36:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.02-01.20.36:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.02-01.20.36:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.02-01.20.36:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.02-01.20.36:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.02-01.20.36:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.02-01.20.36:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.02-01.20.36:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.02-01.20.36:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.02-01.20.36:251][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:251][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-01.20.36:251][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-01.20.36:252][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:252][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.02-01.20.36:252][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.02-01.20.36:252][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.02-01.20.36:252][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-01.20.36:252][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.02-01.20.36:283][  0]LogHAL: Display: Platform has ~ 8 GB [8208637952 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.02-01.20.36:283][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.02-01.20.36:284][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:284][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.02-01.20.36:284][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.02-01.20.36:284][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:284][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.02-01.20.36:284][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:285][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.02-01.20.36:285][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.02-01.20.36:285][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.02-01.20.36:285][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.02-01.20.36:285][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.02-01.20.36:285][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.02-01.20.36:285][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.02-01.20.36:285][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.02-01.20.36:286][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.02-01.20.36:286][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.02-01.20.36:286][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.02-01.20.36:286][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.02-01.20.36:286][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.02-01.20.36:286][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.02-01.20.36:286][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.02-01.20.36:286][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.02-01.20.36:287][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.02-01.20.36:287][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.02-01.20.36:287][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:288][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.02-01.20.36:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.02-01.20.36:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.02-01.20.36:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.02-01.20.36:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.02-01.20.36:288][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.02-01.20.36:289][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.02-01.20.36:289][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.02-01.20.36:289][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.02-01.20.36:289][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.02-01.20.36:289][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.02-01.20.36:290][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.02-01.20.36:290][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.02-01.20.36:290][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.02-01.20.36:290][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.02-01.20.36:290][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.02-01.20.36:290][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.02-01.20.36:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.02-01.20.36:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.02-01.20.36:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.02-01.20.36:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.02-01.20.36:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.02-01.20.36:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.02-01.20.36:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.02-01.20.36:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.02-01.20.36:292][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.02-01.20.36:292][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.02-01.20.36:292][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.02-01.20.36:292][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.02-01.20.36:292][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.02-01.20.36:292][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:293][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.02-01.20.36:293][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.02-01.20.36:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.02-01.20.36:293][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.02-01.20.36:293][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.02-01.20.36:293][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.02-01.20.36:293][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.02-01.20.36:293][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.02-01.20.36:294][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.02-01.20.36:294][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:294][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.02-01.20.36:294][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.02-01.20.36:294][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.02-01.20.36:294][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.02-01.20.36:294][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.02-01.20.36:294][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.02-01.20.36:295][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.02-01.20.36:295][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.02-01.20.36:295][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.02-01.20.36:295][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.02-01.20.36:295][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.02-01.20.36:295][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.02-01.20.36:295][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.02-01.20.36:295][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.02-01.20.36:296][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.02-01.20.36:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.02-01.20.36:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.02-01.20.36:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.02-01.20.36:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.02-01.20.36:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.02-01.20.36:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.02-01.20.36:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.02-01.20.36:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.02-01.20.36:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.02-01.20.36:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.02-01.20.36:297][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.02-01.20.36:297][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:297][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.02-01.20.36:298][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.02-01.20.36:298][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Scalability.ini]
+[2020.04.02-01.20.36:298][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.02-01.20.36:298][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.02-01.20.36:298][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.02-01.20.36:299][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.02-01.20.36:301][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.02-01.20.36:301][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.02-01.20.36:301][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Config/Windows/Engine.ini]
+[2020.04.02-01.20.36:302][  0]LogInit: Computer: DESKTOP-V65GGMP
+[2020.04.02-01.20.36:302][  0]LogInit: User: SWIZZDC
+[2020.04.02-01.20.36:302][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.02-01.20.36:302][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.02-01.20.36:304][  0]LogMemory: Memory total: Physical=7.6GB (8GB approx)
+[2020.04.02-01.20.36:304][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.02-01.20.36:304][  0]LogMemory: Process Physical Memory: 104.58 MB used, 104.58 MB peak
+[2020.04.02-01.20.36:304][  0]LogMemory: Process Virtual Memory: 100.41 MB used, 100.41 MB peak
+[2020.04.02-01.20.36:304][  0]LogMemory: Physical Memory: 3360.81 MB used,  4467.55 MB free, 7828.37 MB total
+[2020.04.02-01.20.36:304][  0]LogMemory: Virtual Memory: 5137.60 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.04.02-01.20.36:322][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.02-01.20.36:470][  0]LogInit: Using OS detected language (en-US).
+[2020.04.02-01.20.36:470][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.02-01.20.36:480][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.02-01.20.38:029][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.02-01.20.38:308][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.02-01.20.38:309][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.02-01.20.39:805][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.02-01.20.39:805][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.02-01.20.39:805][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.02-01.20.39:805][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.02-01.20.39:980][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2020.04.02-01.20.39:980][  0]LogD3D11RHI:       240/0/3914 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.04.02-01.20.39:997][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.02-01.20.39:997][  0]LogD3D11RHI:       0/0/3914 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.02-01.20.39:997][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.02-01.20.40:040][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.02-01.20.40:041][  0]LogD3D11RHI:     GPU DeviceId: 0x15dd (for the marketing name, search the web for "GPU Device Id")
+[2020.04.02-01.20.40:041][  0]LogWindows: EnumDisplayDevices:
+[2020.04.02-01.20.40:043][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics' (P:1 D:1)
+[2020.04.02-01.20.40:046][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.04.02-01.20.40:049][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.04.02-01.20.40:052][  0]LogWindows:    3. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.04.02-01.20.40:055][  0]LogWindows:    4. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.04.02-01.20.40:058][  0]LogWindows:    5. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2020.04.02-01.20.40:061][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2020.04.02-01.20.40:061][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Vega 8 Graphics
+[2020.04.02-01.20.40:061][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.11.2 (internal:26.20.13031.15006, unified:26.20.13031.15006)
+[2020.04.02-01.20.40:061][  0]LogD3D11RHI:      Driver Date: 11-12-2019
+[2020.04.02-01.20.40:061][  0]LogRHI: Texture pool is 168 MB (70% of 240 MB)
+[2020.04.02-01.20.40:358][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.04.02-01.20.40:358][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.02-01.20.40:408][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.04.02-01.20.42:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.02-01.20.43:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.02-01.20.43:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.02-01.20.43:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.02-01.20.43:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.02-01.20.43:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.02-01.20.43:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.02-01.20.43:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.02-01.20.43:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.02-01.20.43:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.02-01.20.43:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.02-01.20.43:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.02-01.20.43:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.02-01.20.43:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.02-01.20.43:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.02-01.20.43:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.02-01.20.43:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.02-01.20.43:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.02-01.20.43:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.02-01.20.43:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.02-01.20.43:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.02-01.20.43:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.02-01.20.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.02-01.20.43:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.02-01.20.43:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.02-01.20.43:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.02-01.20.43:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.02-01.20.43:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.02-01.20.43:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.02-01.20.44:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.02-01.20.44:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.02-01.20.44:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.02-01.20.44:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.02-01.20.44:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.02-01.20.44:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.02-01.20.44:369][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.02-01.20.44:395][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.02-01.20.44:609][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Intermediate/Shaders/WorkingDirectory/13448/).
+[2020.04.02-01.20.44:611][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SWIZZ_DC/AppData/Local/Temp/UnrealShaderWorkingDir/3A0E45294B5624C2463135887F767355/'.
+[2020.04.02-01.20.44:616][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.02-01.20.44:617][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.02-01.20.44:617][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.02-01.20.53:019][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.02-01.20.53:571][  0]LogDerivedDataCache: Loaded boot cache 0.55s 78MB C:/Users/SWIZZ_DC/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.02-01.20.53:573][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SWIZZ_DC/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.02-01.20.53:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.02-01.20.53:575][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.02-01.20.53:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-01.20.53:576][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.02-01.20.53:711][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.02-01.20.53:712][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.02-01.20.53:713][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.02-01.20.53:736][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SWIZZ_DC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.02-01.20.53:737][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.02-01.20.53:737][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.02-01.20.54:231][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.02-01.20.54:270][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.02-01.20.54:276][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.02-01.20.55:213][  0]LogAssetRegistry: FAssetRegistry took 0.2666 seconds to start up
+[2020.04.02-01.20.59:608][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.02-01.21.01:977][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.02-01.21.01:978][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.02-01.21.01:978][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.02-01.21.01:978][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.02-01.21.01:978][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.02-01.21.02:164][  0]LogNetVersion: Code_DM 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1792905491)
+[2020.04.02-01.21.15:812][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.460403 seconds
+[2020.04.02-01.21.15:885][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.02-01.21.15:886][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.02-01.21.15:886][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.02-01.21.20:015][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.02-01.21.20:035][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.02-01.21.20:473][  0]SourceControl: Source control is disabled
+[2020.04.02-01.21.20:474][  0]SourceControl: Source control is disabled
+[2020.04.02-01.21.20:484][  0]SourceControl: Source control is disabled
+[2020.04.02-01.21.20:492][  0]SourceControl: Source control is disabled
+[2020.04.02-01.21.20:500][  0]SourceControl: Source control is disabled
+[2020.04.02-01.21.20:557][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.02-01.21.20:561][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.02-01.21.21:232][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.02-01.21.21:319][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.02-01.21.21:319][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.02-01.21.22:179][  0]LogOcInput: OculusInput pre-init called
+[2020.04.02-01.21.22:242][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.02-01.21.22:242][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.02-01.21.22:943][  0]LogEngine: Initializing Engine...
+[2020.04.02-01.21.22:951][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.02-01.21.22:960][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.04.02-01.21.26:347][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.02-01.21.26:396][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.02-01.21.26:478][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.02-01.21.26:479][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.02-01.21.26:479][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.02-01.21.26:479][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.02-01.21.26:479][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.02-01.21.26:479][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.02-01.21.26:479][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.02-01.21.26:480][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.02-01.21.26:482][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.02-01.21.26:483][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.02-01.21.26:627][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.02-01.21.26:627][  0]LogAudioMixer: Display: Name: 1 - NS-19E310A13 (2- AMD High Definition Audio Device)
+[2020.04.02-01.21.26:628][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.02-01.21.26:628][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.02-01.21.26:628][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.02-01.21.26:628][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.02-01.21.26:628][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.02-01.21.26:628][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.02-01.21.26:628][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.02-01.21.26:906][  0]LogAudioMixer: Display: Using Audio Device 1 - NS-19E310A13 (2- AMD High Definition Audio Device)
+[2020.04.02-01.21.26:940][  0]LogInit: FAudioDevice initialized.
+[2020.04.02-01.21.26:942][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.02-01.21.27:431][  0]LogDerivedDataCache: Saved boot cache 0.49s 78MB C:/Users/SWIZZ_DC/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.02-01.21.27:465][  0]LogInit: Texture streaming: Enabled
+[2020.04.02-01.21.27:535][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.02-01.21.27:536][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.02-01.21.27:548][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.02-01.21.28:024][  0]LogInit: Transaction tracking system initialized
+[2020.04.02-01.21.28:129][  0]BlueprintLog: New page: Editor Load
+[2020.04.02-01.21.28:405][  0]LocalizationService: Localization service is disabled
+[2020.04.02-01.21.28:805][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.02-01.21.28:810][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.04.02-01.21.31:405][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/' took 0.04s
+[2020.04.02-01.21.31:405][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.02-01.21.31:406][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.02-01.21.37:713][  0]SourceControl: Source control is disabled
+[2020.04.02-01.21.38:195][  0]LogSlate: Took 0.001483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.02-01.22.07:155][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.04.02-01.22.07:160][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.02-01.22.07:258][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.02-01.22.07:267][  0]Cmd: MAP LOAD FILE="../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.02-01.22.07:405][  0]LightingResults: New page: Lighting Build
+[2020.04.02-01.22.07:411][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.02-01.22.07:412][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.02-01.22.07:413][  0]MapCheck: New page: Map Check
+[2020.04.02-01.22.07:413][  0]LightingResults: New page: Lighting Build
+[2020.04.02-01.22.07:618][  0]LogUObjectHash: Compacting FUObjectHashTables data took  18.74ms
+[2020.04.02-01.22.13:556][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.02-01.22.13:698][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.02-01.22.13:916][  0]LogUObjectHash: Compacting FUObjectHashTables data took  22.99ms
+[2020.04.02-01.22.13:919][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.02-01.22.13:921][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.432ms to complete.
+[2020.04.02-01.22.13:922][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 6.656
+[2020.04.02-01.22.14:763][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-01.22.14:822][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-01.22.14:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-01.22.14:934][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.02-01.22.15:081][  0]LogCollectionManager: Loaded 0 collections in 0.022321 seconds
+[2020.04.02-01.22.15:354][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Collections/' took 0.01s
+[2020.04.02-01.22.15:354][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/Developers/SWIZZDC/Collections/' took 0.01s
+[2020.04.02-01.22.15:354][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/Collections/' took 0.01s
+[2020.04.02-01.22.15:355][  0]LogContentBrowser: Native class hierarchy populated in 0.0883 seconds. Added 3015 classes and 717 folders.
+[2020.04.02-01.22.15:512][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0021 seconds. Added 0 classes and 0 folders.
+[2020.04.02-01.22.20:191][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0019 seconds. Added 0 classes and 0 folders.
+[2020.04.02-01.22.20:263][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0023 seconds. Added 2 classes and 3 folders.
+[2020.04.02-01.22.21:476][  0]LogSlate: Took 0.001419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.02-01.22.21:686][  0]LogSlate: Took 0.171725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.02-01.22.22:721][  0]LogRenderer: Reallocating scene render targets to support 780x372 Format 10 NumSamples 1 (Frame:1).
+[2020.04.02-01.22.23:849][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0019 seconds. Added 0 classes and 0 folders.
+[2020.04.02-01.22.23:850][  0]LogLoad: (Engine Initialization) Total time: 122.14 seconds
+[2020.04.02-01.22.23:850][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.02-01.22.24:055][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.02-01.22.24:329][  0]LogSlate: Took 0.119890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-01.22.25:136][  5]LogSlate: Took 0.001392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.02-01.22.25:786][  9]LogAssetRegistry: Asset discovery search completed in 90.8139 seconds
+[2020.04.02-01.22.25:815][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2020.04.02-01.25.42:643][715]LogUObjectHash: Compacting FUObjectHashTables data took  19.12ms
+[2020.04.02-01.25.44:404][715]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.02-01.25.57:501][992]LogUObjectHash: Compacting FUObjectHashTables data took  21.27ms
+[2020.04.02-01.25.57:559][992]LogMetaData: Removing '/Game/Levels/World.SKEL_World_C' ref from Metadata '/Game/Levels/ThirdPersonExampleMap.PackageMetaData'
+[2020.04.02-01.25.57:559][992]LogMetaData: Removing '/Game/Levels/World.World_C' ref from Metadata '/Game/Levels/ThirdPersonExampleMap.PackageMetaData'
+[2020.04.02-01.25.57:815][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/World" FILE="../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/Levels/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.02-01.25.58:092][992]LogUObjectHash: Compacting FUObjectHashTables data took  17.60ms
+[2020.04.02-01.25.59:685][992]LogSavePackage: Moving '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/WorldC43750C34B1225A0B3AFA3AF125A0324.tmp' to '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/Levels/World.umap'
+[2020.04.02-01.25.59:766][992]LogFileHelpers: Saving map 'World' took 1.956
+[2020.04.02-01.26.00:792][992]LogUObjectHash: Compacting FUObjectHashTables data took  18.61ms
+[2020.04.02-01.26.01:044][992]LogUObjectHash: Compacting FUObjectHashTables data took  17.91ms
+[2020.04.02-01.26.01:230][992]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.04.02-01.26.01:777][992]AssetCheck: New page: Asset Save: World
+[2020.04.02-01.26.01:778][992]LogContentValidation: Display: Validating World /Game/Levels/World.World
+[2020.04.02-01.26.14:048][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.02-01.26.14:258][289]LogUObjectHash: Compacting FUObjectHashTables data took  15.49ms
+[2020.04.02-01.26.14:337][289]LogSavePackage: Moving '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/MainMenuB5A95DF8467C4E1F3B8C8890A92D55D3.tmp' to '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/Levels/MainMenu.umap'
+[2020.04.02-01.26.14:356][289]LogFileHelpers: Saving map 'MainMenu' took 0.312
+[2020.04.02-01.26.14:430][289]AssetCheck: New page: Asset Save: MainMenu
+[2020.04.02-01.26.14:431][289]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.04.02-01.27.08:766][575]LogUObjectHash: Compacting FUObjectHashTables data took  17.87ms
+[2020.04.02-01.27.10:624][575]LogSavePackage: Moving '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/ThirdPersonExampleMap26B60DDF448041BE341320B52A73792F.tmp' to '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.02-01.27.13:079][575]LogSavePackage: Moving '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/ThirdPersonExampleMap_BuiltDataF272472343C7BDA60B3881984A6CAC9D.tmp' to '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.02-01.27.13:230][575]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.02-01.27.13:231][575]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.02-01.27.13:231][575]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.02-01.27.16:970][640]LogUObjectHash: Compacting FUObjectHashTables data took  19.22ms
+[2020.04.02-01.27.20:850][640]LogSlate: Window 'Save Content' being destroyed
+[2020.04.02-01.27.20:995][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/MainMenu.uasset" SILENT=true
+[2020.04.02-01.27.21:174][640]LogSavePackage: Moving '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/MainMenu333E867146B083F9733227B1966F2BD4.tmp' to '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/MainMenu.uasset'
+[2020.04.02-01.27.21:205][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/Options.uasset" SILENT=true
+[2020.04.02-01.27.21:291][640]LogSavePackage: Moving '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/OptionsBE0DC1EC4D9334C9D15E389E06584E10.tmp' to '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/Options.uasset'
+[2020.04.02-01.27.21:419][640]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.02-01.27.21:419][640]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.04.02-01.27.21:420][640]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.04.02-01.27.22:770][667]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.04.02-01.27.25:027][667]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0046 seconds. Added 121 classes and 0 folders.
+[2020.04.02-01.27.37:824][667]LogSlate: Took 0.001352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.02-01.32.51:186][204]LogSlate: Window 'MainMenu' being destroyed
+[2020.04.02-01.33.16:250][313]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/SWIZZ_DC/Pictures/C_DM (home screen).png)
+[2020.04.02-01.33.16:328][313]LogTexture: Display: Building textures: C_DM__home_screen_ (BGRA8, 422X425)
+[2020.04.02-01.33.19:713][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/C_DM__home_screen_" FILE="../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/C_DM__home_screen_.uasset" SILENT=true
+[2020.04.02-01.33.20:084][388]LogSavePackage: Moving '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/C_DM__home_screen_78233E7E4CEC59FB80916BABB9990CF1.tmp' to '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/C_DM__home_screen_.uasset'
+[2020.04.02-01.33.20:197][388]AssetCheck: New page: Asset Save: C_DM__home_screen_
+[2020.04.02-01.33.20:198][388]LogContentValidation: Display: Validating Texture2D /Game/UI/C_DM__home_screen_.C_DM__home_screen_
+[2020.04.02-01.36.02:200][932]LogEditorTransaction: Undo Resize Widget
+[2020.04.02-01.36.03:073][939]LogEditorTransaction: Undo Resize Widget
+[2020.04.02-01.36.03:963][949]LogEditorTransaction: Undo Move Widget
+[2020.04.02-01.36.04:980][961]LogEditorTransaction: Undo Resize Widget
+[2020.04.02-01.36.06:459][986]LogEditorTransaction: Undo Move Widget
+[2020.04.02-01.36.07:429][998]LogEditorTransaction: Undo Edit Image
+[2020.04.02-01.36.59:653][194]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.02-01.38.49:802][266]LogUObjectHash: Compacting FUObjectHashTables data took  58.08ms
+[2020.04.02-01.38.49:810][266]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.482
+[2020.04.02-01.38.49:824][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu] ([1] browsable assets)...
+[2020.04.02-01.38.49:825][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2020.04.02-01.38.49:825][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Autosaves/Game/UI/MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.02-01.38.49:997][266]LogSavePackage: Moving '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/MainMenu_Auto1CDC6D2B24D70C4DB343382AD46F4821E.tmp' to '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Autosaves/Game/UI/MainMenu_Auto1.uasset'
+[2020.04.02-01.38.50:007][266]LogFileHelpers: Auto-saving content packages took 0.188
+[2020.04.02-01.39.21:411][441]BlueprintLog: New page: Compile MainMenu
+[2020.04.02-01.39.21:811][441]LogUObjectHash: Compacting FUObjectHashTables data took  45.12ms
+[2020.04.02-01.39.22:677][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/MainMenu.uasset" SILENT=true
+[2020.04.02-01.39.22:796][457]LogSavePackage: Moving '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/MainMenu8BBE17504AC43382587574BBE53CEC89.tmp' to '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/MainMenu.uasset'
+[2020.04.02-01.39.22:891][457]AssetCheck: New page: Asset Save: MainMenu
+[2020.04.02-01.39.22:891][457]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.04.02-01.39.29:982][647]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Options.Options
+[2020.04.02-01.40.16:085][ 61]LogEditorTransaction: Undo Remove Widget
+[2020.04.02-01.43.13:132][239]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/SWIZZ_DC/Pictures/C_DM (home screen) (2).png)
+[2020.04.02-01.43.13:163][239]LogTexture: Display: Building textures: C_DM__home_screen___2_ (BGRA8, 202X215)
+[2020.04.02-01.43.16:178][291]LogUObjectHash: Compacting FUObjectHashTables data took  59.89ms
+[2020.04.02-01.43.17:934][291]LogSlate: Window 'Save Content' being destroyed
+[2020.04.02-01.43.18:125][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/C_DM__home_screen___2_" FILE="../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/C_DM__home_screen___2_.uasset" SILENT=true
+[2020.04.02-01.43.18:316][291]LogSavePackage: Moving '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/C_DM__home_screen___2_D4D4976E40235EB80F0B599CFBE073B8.tmp' to '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/C_DM__home_screen___2_.uasset'
+[2020.04.02-01.43.18:337][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options" FILE="../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/Options.uasset" SILENT=true
+[2020.04.02-01.43.18:516][291]LogSavePackage: Moving '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Saved/Options0253554F4D416D99A3C8169601193182.tmp' to '../../../../../../Users/SWIZZ_DC/Documents/GitHub/UE4COLLAB-/Code_DM/Content/UI/Options.uasset'
+[2020.04.02-01.43.18:666][291]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.02-01.43.18:666][291]LogContentValidation: Display: Validating Texture2D /Game/UI/C_DM__home_screen___2_.C_DM__home_screen___2_
+[2020.04.02-01.43.18:666][291]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options.Options
+[2020.04.02-01.44.10:669][383]LogEditorTransaction: Undo Resize Widget
+[2020.04.02-01.48.27:171][523]LogEditorTransaction: Undo Edit Top
+[2020.04.02-01.48.27:224][523]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.02-01.48.32:607][523]LogStats: FPlatformStackWalk::StackWalkAndDump -  5.383 s
+[2020.04.02-01.48.32:608][523]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.02-01.48.32:608][523]LogOutputDevice: Error: 
+[2020.04.02-01.48.32:608][523]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.04.02-01.48.32:608][523]LogOutputDevice: Error: 
+[2020.04.02-01.48.32:608][523]LogOutputDevice: Error: Stack: 
+[2020.04.02-01.48.32:608][523]LogOutputDevice: Error: [Callstack] 0x00007ffd29f2c918 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-01.48.32:608][523]LogOutputDevice: Error: [Callstack] 0x00007ffd293f0cf0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-01.48.32:609][523]LogOutputDevice: Error: [Callstack] 0x00007ffd293a1e1a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-01.48.32:609][523]LogOutputDevice: Error: [Callstack] 0x00007ffd27c762e7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:609][523]LogOutputDevice: Error: [Callstack] 0x00007ffd27c76e0f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:609][523]LogOutputDevice: Error: [Callstack] 0x00007ffd27c76bf1 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:609][523]LogOutputDevice: Error: [Callstack] 0x00007ffd27cc5dbd UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:609][523]LogOutputDevice: Error: [Callstack] 0x00007ffd27caeb92 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:609][523]LogOutputDevice: Error: [Callstack] 0x00007ffd27c3fe28 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:609][523]LogOutputDevice: Error: [Callstack] 0x00007ffd27bd195a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:610][523]LogOutputDevice: Error: [Callstack] 0x00007ffd27ccf621 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:610][523]LogOutputDevice: Error: [Callstack] 0x00007ffd27c421a9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:610][523]LogOutputDevice: Error: [Callstack] 0x00007ffd42c2e957 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-01.48.32:610][523]LogOutputDevice: Error: [Callstack] 0x00007ffd42d10050 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-01.48.32:610][523]LogOutputDevice: Error: [Callstack] 0x00007ffd42b0f418 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-01.48.32:610][523]LogOutputDevice: Error: [Callstack] 0x00007ffd42b0fcfa UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-01.48.32:610][523]LogOutputDevice: Error: [Callstack] 0x00007ffd42ab8d05 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-01.48.32:611][523]LogOutputDevice: Error: [Callstack] 0x00007ffd5f37945c UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:611][523]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3ed9c2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:611][523]LogOutputDevice: Error: [Callstack] 0x00007ffd5f3b5e76 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:611][523]LogOutputDevice: Error: [Callstack] 0x00007ffd5f37557b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:611][523]LogOutputDevice: Error: [Callstack] 0x00007ffd5f4d7c49 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:611][523]LogOutputDevice: Error: [Callstack] 0x00007ffd5f4b6e1b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.04.02-01.48.32:611][523]LogOutputDevice: Error: [Callstack] 0x00007ffd27261b59 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.02-01.48.32:611][523]LogOutputDevice: Error: [Callstack] 0x00007ffd2a834d6e UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.02-01.48.32:612][523]LogOutputDevice: Error: [Callstack] 0x00007ffd296f4ecd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-01.48.32:612][523]LogOutputDevice: Error: [Callstack] 0x00007ffd272655f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.02-01.48.32:612][523]LogOutputDevice: Error: [Callstack] 0x00007ffd293a22ad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-01.48.32:612][523]LogOutputDevice: Error: [Callstack] 0x00007ffd293c73b6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-01.48.32:612][523]LogOutputDevice: Error: [Callstack] 0x00007ffd293b2d4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-01.48.32:612][523]LogOutputDevice: Error: [Callstack] 0x00007ffd2944ea93 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-01.48.32:612][523]LogOutputDevice: Error: [Callstack] 0x00007ffd293eec6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-01.48.32:613][523]LogOutputDevice: Error: [Callstack] 0x00007ffd272625c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.02-01.48.32:613][523]LogOutputDevice: Error: [Callstack] 0x00007ffd42ab9ada UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-01.48.32:613][523]LogOutputDevice: Error: [Callstack] 0x00007ffd42af03de UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-01.48.32:613][523]LogOutputDevice: Error: [Callstack] 0x00007ffd29bc568e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-01.48.32:613][523]LogOutputDevice: Error: [Callstack] 0x00007ffd29bb3221 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.02-01.48.32:613][523]LogOutputDevice: Error: [Callstack] 0x00007ffd42a81041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-01.48.32:613][523]LogOutputDevice: Error: [Callstack] 0x00007ffd42af224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-01.48.32:613][523]LogOutputDevice: Error: [Callstack] 0x00007ffd42ae7b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.02-01.48.32:614][523]LogOutputDevice: Error: [Callstack] 0x00007ffd7a354918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-01.48.32:614][523]LogOutputDevice: Error: [Callstack] 0x00007ffd7a34242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-01.48.32:614][523]LogOutputDevice: Error: [Callstack] 0x00007ffd7a357195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-01.48.32:614][523]LogOutputDevice: Error: [Callstack] 0x00007ffd7a33ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-01.48.32:614][523]LogOutputDevice: Error: [Callstack] 0x00007ffd938b5c0d USER32.dll!UnknownFunction []
+[2020.04.02-01.48.32:614][523]LogOutputDevice: Error: [Callstack] 0x00007ffd938b5602 USER32.dll!UnknownFunction []
+[2020.04.02-01.48.32:614][523]LogOutputDevice: Error: [Callstack] 0x00007ffd7a358699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.02-01.48.32:615][523]LogOutputDevice: Error: [Callstack] 0x00007ff7db6a6db0 UE4Editor.exe!UnknownFunction []
+[2020.04.02-01.48.32:615][523]LogOutputDevice: Error: [Callstack] 0x00007ff7db6bc3ec UE4Editor.exe!UnknownFunction []
+[2020.04.02-01.48.32:615][523]LogOutputDevice: Error: [Callstack] 0x00007ff7db6bc4ca UE4Editor.exe!UnknownFunction []
+[2020.04.02-01.48.32:615][523]LogOutputDevice: Error: [Callstack] 0x00007ff7db6cceae UE4Editor.exe!UnknownFunction []
+[2020.04.02-01.48.32:615][523]LogOutputDevice: Error: [Callstack] 0x00007ff7db6cfcbe UE4Editor.exe!UnknownFunction []
+[2020.04.02-01.48.32:616][523]LogOutputDevice: Error: [Callstack] 0x00007ffd93ea7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.02-01.48.32:616][523]LogOutputDevice: Error: [Callstack] 0x00007ffd94fcced1 ntdll.dll!UnknownFunction []
+[2020.04.02-01.48.32:616][523]LogOutputDevice: Error: 
+[2020.04.02-01.48.32:621][523]LogStats:                SubmitErrorReport -  0.000 s
